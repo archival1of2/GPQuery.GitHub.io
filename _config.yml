@@ -9,10 +9,19 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gpquery.github.io" # the base hostname & protocol for your site
 github_username:  loljoho
 
+# Global Configuration
 
 # Build settings
 markdown: kramdown
 
+# GitHub Flavoured Markdown Recognition
+kramdown: 
+  input: GFM
+
 # Syntax highlighting
 #highlighter: rouge
 highlighter: pygments
+
+# For additional configuration parameters and details, see:
+# https://pages.github.com/versions/
+# http://jekyllrb.com/docs/configuration
