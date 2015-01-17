@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The content found on this page is assembled from the handful of documentation and notes snippets found in all GPQuery repository directories, as well as my personal notebook.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Tasklist
+*Be sure to maintain the order of highest to lowest priority!*
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ - [ ] Tidy Up Main Repositories: `GPQuery`, `Dashboard`, `Engine`, `Livery`
+ - [ ] Documentation (beta) on GitHub Pages
+ - [ ] Finalise Slim Application Standard Routing
+ - [ ] Finalise Eloquent ORM Standard Models and Relations
+ - [ ] Basic Data Visualisation with nvD3
+
+Last update: 18:55 on 17/01/2015.
